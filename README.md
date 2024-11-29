@@ -4,12 +4,12 @@
 
 ## Table of Contents
 
-1. **Introduction**
+1. **[Introduction](01_introduction)**
    - What is Quantum Computing?
    - Why Learn Quantum Computing?
    - Key Concepts in Quantum Computing
 
-2. **Prerequisites**
+2. **[Prerequisites](02_prerequisites)**
    - Basic Knowledge Required (Mathematics, Programming, Physics)
    - Recommended Resources for Beginners
    - Tools & Software for Quantum Computing
