@@ -1,5 +1,3 @@
-# Quantum-Computing-Guide
-
 # **Quantum Computing for Beginners**
 
 ## Table of Contents
@@ -77,6 +75,8 @@
     - How to Contribute to this Guide
     - Reporting Issues and Suggestions
 
-15. **License**
+15. **Resources**
+    - [CERN](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/CERN%20-%20Practical%20Introduction%20To%20Quantum%20Computing)
+    - [IBM](https://learning.quantum.ibm.com/course/quantum-computing-in-practice/introduction)
 
 ---
