@@ -12,7 +12,7 @@
    - Recommended Resources for Beginners
    - Tools & Software for Quantum Computing
 
-3. **Quantum Computing Basics**
+3. **[Quantum Computing Basics](<Beginners guide Practical Quantum Computing with IBM Qiskit>)**
    - Classical vs Quantum Computing
    - Qubits: The Building Blocks of Quantum Computing
    - Superposition and Entanglement
